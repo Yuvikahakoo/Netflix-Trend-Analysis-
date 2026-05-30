@@ -15,10 +15,10 @@ An interactive Power BI dashboard analyzing Netflix's content library to uncover
 ## 📸 Dashboard Preview
 
 ### 🎬 Movies View (India Filter Applied)
-![Movies Dashboard](./assets/netflix_movies_india.png)
+![Movies Dashboard](./netflix_movies_dashboard.png)
 
 ### 📺 TV Shows View (Full Dataset)
-![TV Shows Dashboard](./assets/netflix_tvshows_full.png)
+![TV Shows Dashboard](./netflix_tvshows_dashboard.jpeg)
 
 > **Total Content Analyzed:** 1,008+ titles (Movies: 927 | TV Shows: 81 — filtered view) | Full dataset: 2,667+ titles
 
